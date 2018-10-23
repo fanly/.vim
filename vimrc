@@ -1,4 +1,6 @@
 "" 常规配置
+"禁用vi 兼容模式
+set nocompatible
 
 "设置支持多语言，解决乱码"
 set encoding=utf-8
