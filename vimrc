@@ -25,3 +25,6 @@ set noswapfile
 set nowritebackup
 set noundofile
 
+" 设置颜色
+syntax on
+color dracula
